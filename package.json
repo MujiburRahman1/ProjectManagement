@@ -1,0 +1,25 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "a project management for beginners",
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/MujiburRahman1/ProjectManagement#readme",
+  "bugs": {
+    "url": "https://github.com/MujiburRahman1/ProjectManagement/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MujiburRahman1/ProjectManagement.git"
+  },
+  "license": "ISC",
+  "author": "Mujib ur Rahman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
