@@ -19,7 +19,11 @@
   "author": "Mujib ur Rahman",
   "type": "commonjs",
   "main": "index.js",
+  "types": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
   }
 }
